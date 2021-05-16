@@ -1,0 +1,2092 @@
+fileFormatVersion: 2
+guid: f01ded03a23820e48a7496378f74adc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7134067883658477580
+    second: explo_0
+  - first:
+      213: -2838975910022057749
+    second: explo_1
+  - first:
+      213: 3627877070566184614
+    second: explo_2
+  - first:
+      213: -384423644946989141
+    second: explo_3
+  - first:
+      213: 8175594714133697546
+    second: explo_4
+  - first:
+      213: -4406262520237569126
+    second: explo_5
+  - first:
+      213: -7125997501527416140
+    second: explo_6
+  - first:
+      213: 8066887701285327007
+    second: explo_7
+  - first:
+      213: 359646874532821234
+    second: explo_8
+  - first:
+      213: 422903412451980811
+    second: explo_9
+  - first:
+      213: -8135738875038735614
+    second: explo_10
+  - first:
+      213: 3355081984886964042
+    second: explo_11
+  - first:
+      213: 7982067727311243753
+    second: explo_12
+  - first:
+      213: 3541344538590573717
+    second: explo_13
+  - first:
+      213: -5465515188507444090
+    second: explo_14
+  - first:
+      213: 7436162754463166697
+    second: explo_15
+  - first:
+      213: 4877373977420458696
+    second: explo_16
+  - first:
+      213: -2957637357746260195
+    second: explo_17
+  - first:
+      213: -4967031419471373149
+    second: explo_18
+  - first:
+      213: 8455158340059673523
+    second: explo_19
+  - first:
+      213: -3260356925879817400
+    second: explo_20
+  - first:
+      213: -4831422942814685444
+    second: explo_21
+  - first:
+      213: 8192132480150462598
+    second: explo_22
+  - first:
+      213: -5952530044709782743
+    second: explo_23
+  - first:
+      213: -2889064197472896462
+    second: explo_24
+  - first:
+      213: -4381788758462138349
+    second: explo_25
+  - first:
+      213: 2803735993142897039
+    second: explo_26
+  - first:
+      213: 8020144158933288235
+    second: explo_27
+  - first:
+      213: -698330850415744031
+    second: explo_28
+  - first:
+      213: 4620858638546445736
+    second: explo_29
+  - first:
+      213: 7649894501121897129
+    second: explo_30
+  - first:
+      213: 8981772836608632897
+    second: explo_31
+  - first:
+      213: 5744858789718522328
+    second: explo_32
+  - first:
+      213: 8469708624109313589
+    second: explo_33
+  - first:
+      213: 2513737323438115119
+    second: explo_34
+  - first:
+      213: -2992321397893228706
+    second: explo_35
+  - first:
+      213: 34290183366072449
+    second: explo_36
+  - first:
+      213: -5201996851360530378
+    second: explo_37
+  - first:
+      213: -7075195671661638262
+    second: explo_38
+  - first:
+      213: 68619444855366251
+    second: explo_39
+  - first:
+      213: 5074010188245129075
+    second: explo_40
+  - first:
+      213: -7439708087198968991
+    second: explo_41
+  - first:
+      213: -9213812617458734366
+    second: explo_42
+  - first:
+      213: 6065618163304294262
+    second: explo_43
+  - first:
+      213: -2058254707811425297
+    second: explo_44
+  - first:
+      213: 47279560380867990
+    second: explo_45
+  - first:
+      213: 375605309734236671
+    second: explo_46
+  - first:
+      213: 7966591679518557680
+    second: explo_47
+  - first:
+      213: -3390942641941909489
+    second: explo_48
+  - first:
+      213: 9132613043447096136
+    second: explo_49
+  - first:
+      213: 6833046892591563891
+    second: explo_50
+  - first:
+      213: -5086487382700545927
+    second: explo_51
+  - first:
+      213: 1022635373787128440
+    second: explo_52
+  - first:
+      213: 6982266114375069207
+    second: explo_53
+  - first:
+      213: 1777166286605644950
+    second: explo_54
+  - first:
+      213: -4100540263790249456
+    second: explo_55
+  - first:
+      213: 3321862106146597895
+    second: explo_56
+  - first:
+      213: -7323863556347036143
+    second: explo_57
+  - first:
+      213: 4176351654013525791
+    second: explo_58
+  - first:
+      213: 8222723242912413148
+    second: explo_59
+  - first:
+      213: 2081135241383538361
+    second: explo_60
+  - first:
+      213: 7355747307966727247
+    second: explo_61
+  - first:
+      213: 7039090619077056176
+    second: explo_62
+  - first:
+      213: 4265358921504098722
+    second: explo_63
+  - first:
+      213: -1071025717681107889
+    second: explo_64
+  - first:
+      213: 3956420009698105213
+    second: explo_65
+  - first:
+      213: 1468430990586314699
+    second: explo_66
+  - first:
+      213: -4930293842862772523
+    second: explo_67
+  - first:
+      213: 3372678888398437618
+    second: explo_68
+  - first:
+      213: -1068392912343163195
+    second: explo_69
+  - first:
+      213: 6560974719171269873
+    second: explo_70
+  - first:
+      213: -560721141423599506
+    second: explo_71
+  - first:
+      213: -2597706934874947105
+    second: explo_72
+  - first:
+      213: 7946434456145633219
+    second: explo_73
+  - first:
+      213: -2079331385743562057
+    second: explo_74
+  - first:
+      213: -1981033469236009518
+    second: explo_75
+  - first:
+      213: -100804398178957000
+    second: explo_76
+  - first:
+      213: -8308322868774233608
+    second: explo_77
+  - first:
+      213: 7321152986078243361
+    second: explo_78
+  - first:
+      213: 4708492588003312260
+    second: explo_79
+  - first:
+      213: 1291891330353324514
+    second: explo_80
+  - first:
+      213: 4058801464816970562
+    second: explo_81
+  - first:
+      213: -950833276053173823
+    second: explo_82
+  - first:
+      213: 1325593938698698843
+    second: explo_83
+  - first:
+      213: 246049868540174294
+    second: explo_84
+  - first:
+      213: -2367672248847013175
+    second: explo_85
+  - first:
+      213: 7318655194114420593
+    second: explo_86
+  - first:
+      213: 4485643226131617514
+    second: explo_87
+  - first:
+      213: 9176475741121046836
+    second: explo_88
+  - first:
+      213: 3372235148878969479
+    second: explo_89
+  - first:
+      213: -3344311648841340161
+    second: explo_90
+  - first:
+      213: 772340113586351141
+    second: explo_91
+  - first:
+      213: -4415237513754269393
+    second: explo_92
+  - first:
+      213: -7354576304689390938
+    second: explo_93
+  - first:
+      213: 7201248769750660234
+    second: explo_94
+  - first:
+      213: -5080042138404171236
+    second: explo_95
+  - first:
+      213: 63510260531438751
+    second: explo_96
+  - first:
+      213: -404887113044756675
+    second: explo_97
+  - first:
+      213: -9156633145008861548
+    second: explo_98
+  - first:
+      213: -6879308996620000530
+    second: explo_99
+  - first:
+      213: -6494888854991796532
+    second: explo_100
+  - first:
+      213: 4795170873403978747
+    second: explo_101
+  - first:
+      213: -8150883380335352874
+    second: explo_102
+  - first:
+      213: -302270012485100445
+    second: explo_103
+  - first:
+      213: -3843014840045507298
+    second: explo_104
+  - first:
+      213: -2807861535947416448
+    second: explo_105
+  - first:
+      213: 1285035991424644694
+    second: explo_106
+  - first:
+      213: -4156220005912651660
+    second: explo_107
+  - first:
+      213: 6408685171682839467
+    second: explo_108
+  - first:
+      213: -5656267465267269078
+    second: explo_109
+  - first:
+      213: -1592717508099608598
+    second: explo_110
+  - first:
+      213: 9109580215609513360
+    second: explo_111
+  - first:
+      213: -3483531914590320387
+    second: explo_112
+  - first:
+      213: 7140799384344797320
+    second: explo_113
+  - first:
+      213: -9098949546417400799
+    second: explo_114
+  - first:
+      213: 2045216447163293482
+    second: explo_115
+  - first:
+      213: -1110906500413272997
+    second: explo_116
+  - first:
+      213: -1132654260425588079
+    second: explo_117
+  - first:
+      213: 2102394361727477486
+    second: explo_118
+  - first:
+      213: -1451776823261667305
+    second: explo_119
+  - first:
+      213: 9037926796806947607
+    second: explo_120
+  - first:
+      213: 3185484853360858439
+    second: explo_121
+  - first:
+      213: 3178211628248310770
+    second: explo_122
+  - first:
+      213: 3975882751092462808
+    second: explo_123
+  - first:
+      213: 4599793261719215265
+    second: explo_124
+  - first:
+      213: -6738971847318033376
+    second: explo_125
+  - first:
+      213: -7524109414787919027
+    second: explo_126
+  - first:
+      213: 5252685724493174703
+    second: explo_127
+  - first:
+      213: 92855161440716040
+    second: explo_128
+  - first:
+      213: 6012099588333113437
+    second: explo_129
+  - first:
+      213: -438371586899601251
+    second: explo_130
+  - first:
+      213: 1790768936361984617
+    second: explo_131
+  - first:
+      213: 9053989235504522048
+    second: explo_132
+  - first:
+      213: 3748639551445565279
+    second: explo_133
+  - first:
+      213: 2345008009062126845
+    second: explo_134
+  - first:
+      213: -3921872966968698266
+    second: explo_135
+  - first:
+      213: -4603587203414899215
+    second: explo_136
+  - first:
+      213: 451400163412652707
+    second: explo_137
+  - first:
+      213: 4585556895445540749
+    second: explo_138
+  - first:
+      213: 4868633508055641248
+    second: explo_139
+  - first:
+      213: 3150966622676341928
+    second: explo_140
+  - first:
+      213: -7292494385155905230
+    second: explo_141
+  - first:
+      213: -7647241342071091974
+    second: explo_142
+  - first:
+      213: 908443213529473866
+    second: explo_143
+  - first:
+      213: -5166862237878230959
+    second: explo_144
+  - first:
+      213: 8843404438488714069
+    second: explo_145
+  - first:
+      213: 5957536225067628408
+    second: explo_146
+  - first:
+      213: 1636674128900426149
+    second: explo_147
+  - first:
+      213: -4504453314568541966
+    second: explo_148
+  - first:
+      213: 4622281249494300562
+    second: explo_149
+  - first:
+      213: -1825534129647019465
+    second: explo_150
+  - first:
+      213: 1823757885661138040
+    second: explo_151
+  - first:
+      213: 6324288289385327687
+    second: explo_152
+  - first:
+      213: 2978039473762565517
+    second: explo_153
+  - first:
+      213: 6178774140193908302
+    second: explo_154
+  - first:
+      213: -631965491670734291
+    second: explo_155
+  - first:
+      213: 8688629334614522011
+    second: explo_156
+  - first:
+      213: 8127610558461604095
+    second: explo_157
+  - first:
+      213: 863986194724251407
+    second: explo_158
+  - first:
+      213: -2073975075929691493
+    second: explo_159
+  - first:
+      213: 7046504474457122114
+    second: explo_160
+  - first:
+      213: 2778923769992580380
+    second: explo_161
+  - first:
+      213: -3183992882271225571
+    second: explo_162
+  - first:
+      213: 3702041760812146902
+    second: explo_163
+  - first:
+      213: -577286074376371317
+    second: explo_164
+  - first:
+      213: 927692749066193312
+    second: explo_165
+  - first:
+      213: 8739663610213090674
+    second: explo_166
+  - first:
+      213: -4691551181765757433
+    second: explo_167
+  - first:
+      213: 4524116808082084798
+    second: explo_168
+  - first:
+      213: 8939418158014898601
+    second: explo_169
+  - first:
+      213: -5508654004426521413
+    second: explo_170
+  - first:
+      213: 6952532245645150725
+    second: explo_171
+  - first:
+      213: 5201384923124813226
+    second: explo_172
+  - first:
+      213: -7736572965748827276
+    second: explo_173
+  - first:
+      213: 6880158667988943615
+    second: explo_174
+  - first:
+      213: 5058069663381587036
+    second: explo_175
+  - first:
+      213: -8343587277730792491
+    second: explo_176
+  - first:
+      213: -4105075290742554048
+    second: explo_177
+  - first:
+      213: -6315769509421787009
+    second: explo_178
+  - first:
+      213: 7994864666557531995
+    second: explo_179
+  - first:
+      213: -4740475483106285180
+    second: explo_180
+  - first:
+      213: -1920875376843348046
+    second: explo_181
+  - first:
+      213: 3183300462170722542
+    second: explo_182
+  - first:
+      213: -3715456997743748146
+    second: explo_183
+  - first:
+      213: 910387745255913793
+    second: explo_184
+  - first:
+      213: 1365315107488814096
+    second: explo_185
+  - first:
+      213: -6674289647772806600
+    second: explo_186
+  - first:
+      213: -2482872859117836589
+    second: explo_187
+  - first:
+      213: 8526543250512168318
+    second: explo_188
+  - first:
+      213: -2703534233889059053
+    second: explo_189
+  - first:
+      213: -4778254033699874418
+    second: explo_190
+  - first:
+      213: -3695906804919632307
+    second: explo_191
+  - first:
+      213: -8659403540492453570
+    second: explo_192
+  - first:
+      213: 2638068465965211199
+    second: explo_193
+  - first:
+      213: -3965224492707510207
+    second: explo_194
+  - first:
+      213: 3348996791374668549
+    second: explo_195
+  - first:
+      213: -6827654940282549760
+    second: explo_196
+  - first:
+      213: -4508873037870742675
+    second: explo_197
+  - first:
+      213: 5803048644080160555
+    second: explo_198
+  - first:
+      213: -4470657242482403977
+    second: explo_199
+  - first:
+      213: -9023632411457609897
+    second: explo_200
+  - first:
+      213: -8693422660982041740
+    second: explo_201
+  - first:
+      213: 2140260766173112969
+    second: explo_202
+  - first:
+      213: -7046148605835087111
+    second: explo_203
+  - first:
+      213: 8279898931378153177
+    second: explo_204
+  - first:
+      213: 8947420133636102019
+    second: explo_205
+  - first:
+      213: 9068403444245846716
+    second: explo_206
+  - first:
+      213: 878442182915842533
+    second: explo_207
+  - first:
+      213: -2091536925703408164
+    second: explo_208
+  - first:
+      213: 2853310396531720450
+    second: explo_209
+  - first:
+      213: -7172436434529991875
+    second: explo_210
+  - first:
+      213: -7476444213968804073
+    second: explo_211
+  - first:
+      213: 6129407642211775772
+    second: explo_212
+  - first:
+      213: 8792713106288524425
+    second: explo_213
+  - first:
+      213: 7816781216365782299
+    second: explo_214
+  - first:
+      213: -6025496568466938402
+    second: explo_215
+  - first:
+      213: -1750836534462620626
+    second: explo_216
+  - first:
+      213: -9026294700878054717
+    second: explo_217
+  - first:
+      213: -6472071987436162178
+    second: explo_218
+  - first:
+      213: 2526590529734569048
+    second: explo_219
+  - first:
+      213: -7420562618199070324
+    second: explo_220
+  - first:
+      213: 61575145620588845
+    second: explo_221
+  - first:
+      213: -2236332713861476000
+    second: explo_222
+  - first:
+      213: -598456485559032632
+    second: explo_223
+  - first:
+      213: -1534874616838249539
+    second: explo_224
+  - first:
+      213: 3279085932172950686
+    second: explo_225
+  - first:
+      213: 8893630931791960782
+    second: explo_226
+  - first:
+      213: -232125666058956591
+    second: explo_227
+  - first:
+      213: 2738114020585380075
+    second: explo_228
+  - first:
+      213: 3283873345186051012
+    second: explo_229
+  - first:
+      213: -3326771985741873675
+    second: explo_230
+  - first:
+      213: -3814549312463767415
+    second: explo_231
+  - first:
+      213: 4642055823441895836
+    second: explo_232
+  - first:
+      213: 8650452440031790314
+    second: explo_233
+  - first:
+      213: 6611995381979166673
+    second: explo_234
+  - first:
+      213: -4686428208346037352
+    second: explo_235
+  - first:
+      213: -3468227355700784546
+    second: explo_236
+  - first:
+      213: 2206099838281849402
+    second: explo_237
+  - first:
+      213: -3562418082543697553
+    second: explo_238
+  - first:
+      213: -8908759240409014635
+    second: explo_239
+  - first:
+      213: 3382054365638143262
+    second: explo_240
+  - first:
+      213: -3446770777512569204
+    second: explo_241
+  - first:
+      213: -1078295634162121214
+    second: explo_242
+  - first:
+      213: 8792046018876193096
+    second: explo_243
+  - first:
+      213: 7282213922455468245
+    second: explo_244
+  - first:
+      213: 1213508136307661535
+    second: explo_245
+  - first:
+      213: -6183290914917372973
+    second: explo_246
+  - first:
+      213: 3414255625235618390
+    second: explo_247
+  - first:
+      213: 3054244787591168498
+    second: explo_248
+  - first:
+      213: -7864513938664179072
+    second: explo_249
+  - first:
+      213: -7961198785918276147
+    second: explo_250
+  - first:
+      213: 1997408820119660258
+    second: explo_251
+  - first:
+      213: 4381260161427438758
+    second: explo_252
+  - first:
+      213: -1329958457878543443
+    second: explo_253
+  - first:
+      213: -4081974079453611204
+    second: explo_254
+  - first:
+      213: -3571157699071206365
+    second: explo_255
+  - first:
+      213: -1835319383229874043
+    second: explo_256
+  - first:
+      213: 5014341699270419850
+    second: explo_257
+  - first:
+      213: -921979137400521943
+    second: explo_258
+  - first:
+      213: 2933957883558356250
+    second: explo_259
+  - first:
+      213: 2498228117424041342
+    second: explo_260
+  - first:
+      213: -2761462757697094293
+    second: explo_261
+  - first:
+      213: -6754100633802382489
+    second: explo_262
+  - first:
+      213: 6210609347281806226
+    second: explo_263
+  - first:
+      213: -7245328466639420977
+    second: explo_264
+  - first:
+      213: 7538868387157773654
+    second: explo_265
+  - first:
+      213: 5289732041699921472
+    second: explo_266
+  - first:
+      213: 3991893997668797794
+    second: explo_267
+  - first:
+      213: 167962771326526236
+    second: explo_268
+  - first:
+      213: -6810152707801876703
+    second: explo_269
+  - first:
+      213: -3653213972472783655
+    second: explo_270
+  - first:
+      213: -5995797647741052986
+    second: explo_271
+  - first:
+      213: 7369562429548298176
+    second: explo_272
+  - first:
+      213: -73145521007019103
+    second: explo_273
+  - first:
+      213: -891177488397448042
+    second: explo_274
+  - first:
+      213: -977687431676512042
+    second: explo_275
+  - first:
+      213: 4234254188657480183
+    second: explo_276
+  - first:
+      213: -3398932628798327025
+    second: explo_277
+  - first:
+      213: -7990070373180262157
+    second: explo_278
+  - first:
+      213: -5380450130584572976
+    second: explo_279
+  - first:
+      213: -1542884686103770051
+    second: explo_280
+  - first:
+      213: 4667143172294527608
+    second: explo_281
+  - first:
+      213: 3898137633607623283
+    second: explo_282
+  - first:
+      213: -2277490958405154982
+    second: explo_283
+  - first:
+      213: 6782274520833435873
+    second: explo_284
+  - first:
+      213: 3420780308632164846
+    second: explo_285
+  - first:
+      213: -8800059507575964128
+    second: explo_286
+  - first:
+      213: -7354838352796092770
+    second: explo_287
+  - first:
+      213: -3053718416231518181
+    second: explo_288
+  - first:
+      213: 999769940437666719
+    second: explo_289
+  - first:
+      213: 5281268727277182337
+    second: explo_290
+  - first:
+      213: 5932065295634836715
+    second: explo_291
+  - first:
+      213: 3962652074104156602
+    second: explo_292
+  - first:
+      213: 979500625926655344
+    second: explo_293
+  - first:
+      213: 2624971314522114955
+    second: explo_294
+  - first:
+      213: 7885732394755464777
+    second: explo_295
+  - first:
+      213: -5361457686508670258
+    second: explo_296
+  - first:
+      213: -7048284214767840608
+    second: explo_297
+  - first:
+      213: -3221903456666654274
+    second: explo_298
+  - first:
+      213: 6086229492968728539
+    second: explo_299
+  - first:
+      213: -9098949100375400769
+    second: explo_300
+  - first:
+      213: 3230101518994936636
+    second: explo_301
+  - first:
+      213: 8943700969233184369
+    second: explo_302
+  - first:
+      213: 8662461150817597975
+    second: explo_303
+  - first:
+      213: 1212545934409560551
+    second: explo_304
+  - first:
+      213: -5061448711076365861
+    second: explo_305
+  - first:
+      213: -1314879079743202456
+    second: explo_306
+  - first:
+      213: -1881998760628660388
+    second: explo_307
+  - first:
+      213: 9183529960203707766
+    second: explo_308
+  - first:
+      213: -6696841462782809935
+    second: explo_309
+  - first:
+      213: -1196211924609429261
+    second: explo_310
+  - first:
+      213: -1106288250805141190
+    second: explo_311
+  - first:
+      213: 6813253338090418239
+    second: explo_312
+  - first:
+      213: 3675958806170360887
+    second: explo_313
+  - first:
+      213: 6683955140348334919
+    second: explo_314
+  - first:
+      213: 8377362197908675129
+    second: explo_315
+  - first:
+      213: 1604668178983409353
+    second: explo_316
+  - first:
+      213: -4231618742740364756
+    second: explo_317
+  - first:
+      213: 2307551776507327464
+    second: explo_318
+  - first:
+      213: 1905460906060424396
+    second: explo_319
+  - first:
+      213: -3008994778081104754
+    second: explo_320
+  - first:
+      213: 7979320923820733745
+    second: explo_321
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff7307ce03befc90800000000000000
+      internalID: -7134067883658477580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be07e3d837ee998d0800000000000000
+      internalID: -2838975910022057749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6d1ef69fec85230800000000000000
+      internalID: 3627877070566184614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf7caf4bb04aaaf0800000000000000
+      internalID: -384423644946989141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04108b831c857170800000000000000
+      internalID: 8175594714133697546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b4f1e459fc9d2c0800000000000000
+      internalID: -4406262520237569126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2232b070f5b1d90800000000000000
+      internalID: -7125997501527416140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f905416cf9753ff60800000000000000
+      internalID: 8066887701285327007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8bb194de8bdf400800000000000000
+      internalID: 359646874532821234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b063089b9647ed500800000000000000
+      internalID: 422903412451980811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203eaff199c081f80800000000000000
+      internalID: -8135738875038735614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fff7d0a45af8e20800000000000000
+      internalID: 3355081984886964042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90f73ae4006ce60800000000000000
+      internalID: 7982067727311243753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f5f15812652130800000000000000
+      internalID: 3541344538590573717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf282c4e69624b0800000000000000
+      internalID: -5465515188507444090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e074cf60ae823760800000000000000
+      internalID: 7436162754463166697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca61e08ac9efa340800000000000000
+      internalID: 4877373977420458696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17fb1d4e7c54f6d0800000000000000
+      internalID: -2957637357746260195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac543e8d3f811bb0800000000000000
+      internalID: -4967031419471373149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b330f286b1c65570800000000000000
+      internalID: 8455158340059673523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84be2f766a2e0c2d0800000000000000
+      internalID: -3260356925879817400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6bbd57e6653fcb0800000000000000
+      internalID: -4831422942814685444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ee40461d40b170800000000000000
+      internalID: 8192132480150462598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bbb32567d546da0800000000000000
+      internalID: -5952530044709782743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a34585b6bf7e7d0800000000000000
+      internalID: -2889064197472896462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31870130752c033c0800000000000000
+      internalID: -4381788758462138349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89624be70fd8e620800000000000000
+      internalID: 2803735993142897039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2584a8be964d4f60800000000000000
+      internalID: 8020144158933288235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebe54d9ac70f46f0800000000000000
+      internalID: -698330850415744031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52bdb0376902040800000000000000
+      internalID: 4620858638546445736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b5949482e92a60800000000000000
+      internalID: 7649894501121897129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486f43becaa5ac70800000000000000
+      internalID: 8981772836608632897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f3f5b1a6d9bf40800000000000000
+      internalID: 5744858789718522328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e19138e137a8570800000000000000
+      internalID: 8469708624109313589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f298b2ef6c692e220800000000000000
+      internalID: 2513737323438115119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5716c8ea832976d0800000000000000
+      internalID: -2992321397893228706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18851d67db2d97000800000000000000
+      internalID: 34290183366072449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63084ffcc6bcec7b0800000000000000
+      internalID: -5201996851360530378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d0a3ac50bdfcd90800000000000000
+      internalID: -7075195671661638262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_39
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e9438509c3f000800000000000000
+      internalID: 68619444855366251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377501902618a6640800000000000000
+      internalID: 5074010188245129075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16397e579e8d0c890800000000000000
+      internalID: -7439708087198968991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2c55cd36f12080800000000000000
+      internalID: -9213812617458734366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e8ee15976d2450800000000000000
+      internalID: 6065618163304294262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3ef939f3c9f63e0800000000000000
+      internalID: -2058254707811425297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_45
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69563a97288f7a000800000000000000
+      internalID: 47279560380867990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1b5760a0b663500800000000000000
+      internalID: 375605309734236671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explo_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f549487ce40f8e60800000000000000
+      internalID: 7966591679518557680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
